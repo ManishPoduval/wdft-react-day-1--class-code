@@ -57,4 +57,6 @@ class App extends React.Component {
     }
 }
 
+
+// We do this just once in our whole project in the root file
 ReactDOM.render( <App /> , document.querySelector('#myApp') )
